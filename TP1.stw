@@ -1,0 +1,24 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=pr_1\pr_1.stp
+Dependencies=
+
+[Project1]
+Filename=pr_2\pr_2.stp
+Dependencies=
+
+[Project2]
+Filename=pr_4\pr_4.stp
+Dependencies=
+
+[Project3]
+Filename=pr_5\pr_5.stp
+Dependencies=
+[Options]
+ActiveProject=pr_5
+ActiveConfig=Debug
+AddSortedElements=1
